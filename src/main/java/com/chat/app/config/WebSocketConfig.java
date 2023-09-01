@@ -44,7 +44,6 @@ public class WebSocketConfig implements WebSocketConfigurer {
     }
     @Override
     public void registerWebSocketHandlers(WebSocketHandlerRegistry registry) {
-
         for(var url: getAllUrls().entrySet()){
             registry.addHandler(url.getValue(), url.getKey());
         }

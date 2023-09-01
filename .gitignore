@@ -1,5 +1,8 @@
 HELP.md
 target/
+memory:myDb?cache=shared
+chat-history.txt
+chat_db
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
