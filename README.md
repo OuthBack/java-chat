@@ -93,8 +93,8 @@ To run the project it is just:
 ```sh
 docker-compose up -d
 ```
-- Page
-ws://localhost:8080
+#### Page
+ws://localhost:8080/chat
 
 <!-- Site Preview -->
 
