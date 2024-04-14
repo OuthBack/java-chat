@@ -36,7 +36,6 @@
     <a href="https://github.com/OuthBack/taq-challenge/issues">Require Feature</a>
     <br />
     <br />
-    <img src=".github/demo.gif" alt="Logo" width="426" height="240">
   </p>
 </p>
 
